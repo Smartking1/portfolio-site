@@ -71,7 +71,7 @@ const projects: Project[] = [
     title: "AI Resume Builder",
     description:
       "An AI-powered resume builder that helps users create a professional resume in minutes. The tool uses AI to generate a resume based on the user's input and preferences.",
-    image: "/images/resume.PNG",
+    image: "/images/AICV.png",
     tags: ["AI", "Python", "Generative AI"],
     link: "https://github.com/Smartking1/AI-Resume-Builder",
     featured: true,
